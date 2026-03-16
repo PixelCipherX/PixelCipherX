@@ -13,13 +13,13 @@ I am passionate about building modern, responsive, and user-friendly web experie
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,cpp" />
 </p>
 
-
 🎨 Design & Creative Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="Canva"/>
 </p>
+
 
 
 💻 Languages
