@@ -6,7 +6,7 @@
 I am passionate about building modern, responsive, and user-friendly web experiences and exploring the future of web development and digital design.
 </p>
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -14,7 +14,7 @@ I am passionate about building modern, responsive, and user-friendly web experie
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,cpp" />
 </p>
 
----
+
 
 ## 💻 Languages
 
@@ -22,7 +22,7 @@ I am passionate about building modern, responsive, and user-friendly web experie
 <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
 </p>
 
----
+
 
 📊 GitHub Stats
 
@@ -31,7 +31,7 @@ I am passionate about building modern, responsive, and user-friendly web experie
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelCipherX&layout=compact&theme=radical" height="170"/>
 </p>
 
----
+
 
 🐍 Contribution Graph
 
@@ -39,7 +39,7 @@ I am passionate about building modern, responsive, and user-friendly web experie
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
+
 
 🌐 Connect With Me
 
