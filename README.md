@@ -7,23 +7,25 @@ I am passionate about building modern, responsive, and user-friendly web experie
 </p>
 
 
-
-## 🚀 Tech Stack
+🚀 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,cpp" />
 </p>
 
 
+🎨 Design & Creative Tools
 
-## 💻 Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+</p>
+
+
+💻 Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
 </p>
-
-
-
 
 
 🌐 Connect With Me
