@@ -14,12 +14,10 @@ I am passionate about building modern, responsive, and user-friendly web experie
 </p>
 
 🎨 Design & Creative Tools
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
-<img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="Canva"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva"/>
 </p>
-
 
 
 💻 Languages
