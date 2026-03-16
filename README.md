@@ -24,21 +24,6 @@ I am passionate about building modern, responsive, and user-friendly web experie
 
 
 
-📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PixelCipherX&show_icons=true&theme=radical" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelCipherX&layout=compact&theme=radical" height="170"/>
-</p>
-
-
-
-🐍 Contribution Graph
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
-
 
 
 🌐 Connect With Me
